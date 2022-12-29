@@ -5,4 +5,4 @@
 
 <br>
 
-![Snake animation](https://github.com/AnatoliiPerfun/snake/blob/output/github-grid.svg)
+![Snake animation](https://github.com/AnatoliiPerfun/anatoliiperfun/blob/output/github-grid.svg)
