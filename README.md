@@ -6,13 +6,19 @@
 
 ## Social
 
-<a href="https://www.linkedin.com/in/anatoliiperfun" title="LinkedIn">
+<!-- <a href="https://www.linkedin.com/in/anatoliiperfun" title="LinkedIn">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="60px" /> 
-</a>
+</a> -->
+    <a  href="https://www.linkedin.com/in/anatoliiperfun" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    </a>
 
 ## Skills:
 
 #### Languages:
+
+
+
 
 
 
