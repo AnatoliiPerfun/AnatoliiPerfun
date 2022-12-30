@@ -32,7 +32,7 @@
 ![]()&nbsp;
 ![]()&nbsp;
 ![]()&nbsp;
-![IntelliJIDEA](https://img.shields.io/badge/IJ-IntelliJIDEA-143?style=for-the-badge&logo=intellij&logoColor=blue&color=black&labelColor=red)&nbsp;
+![IntelliJIDEA](https://img.shields.io/badge/IJ-IntelliJIDEA-143?style=for-the-badge&logo=intellij&logoColor=blue&color=blue&labelColor=red)&nbsp;
 
 ##
 
