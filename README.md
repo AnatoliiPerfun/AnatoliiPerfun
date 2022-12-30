@@ -24,5 +24,5 @@
 | ------------- | ------------- |
 <br>
 ## 
-<br>
+
 ![github contribution grid snake animation](https://github.com/AnatoliiPerfun/anatoliiperfun/blob/output/github-user-contribution.svg#gh-dark-mode-only)
