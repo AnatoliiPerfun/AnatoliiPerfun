@@ -17,7 +17,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Scala](https://img.shields.io/badge/Scala-%23FA0F00?style=for-the-badge&logo=scala&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C%20sharp-280068?style=for-the-badge&logo=C%20sharp&logoColor=white)&nbsp;
-<!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; -->
 ![SpringBoot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-%235835CC.svg?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-EE0000?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
@@ -34,7 +33,7 @@
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
 
-
+<!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; -->
 ##
 
 | <a href="https://github.com/anatoliiperfun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anatoliiperfun&show_icons=true&include_all_commits=true&theme=codeSTACKr&hide_border=true" alt="Anatolii's github stats" /></a> | <a href="https://github.com/anatoliiperfun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anatoliiperfun&layout=compact&theme=codeSTACKr&hide_border=true" /></a> |
