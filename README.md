@@ -6,11 +6,11 @@
 
 ## Social
 
-<a href="https://www.linkedin.com/in/anatoliiperfun" title="LinkedIn">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="60px" /> 
+<a href="https://www.linkedin.com/in/anatoliiperfun" target="_blank">
+<img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
-<a href="https://www.linkedin.com/in/anatoliiperfun" title="LinkedIn">
-<img src="https://commons.wikimedia.org/wiki/File:Telegram_2019_Logo.svg">" height="32px" /> 
+<a  href="https://t.me/tolikperfun" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
 </a>
 
 ## Skills:
