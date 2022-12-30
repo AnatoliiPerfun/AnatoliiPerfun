@@ -19,7 +19,7 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Scala](https://img.shields.io/badge/Scala-%23FA0F00?style=for-the-badge&logo=scala&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/C#-2962FF?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/Csharp-2962FF?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 
 
 
