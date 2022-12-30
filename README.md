@@ -16,10 +16,10 @@
 ## Skills:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Scala](https://img.shields.io/badge/Scala-%23FA0F00?style=for-the-badge&logo=scala&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/Csharp-280068?style=for-the-badge&logo=Csharp&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%20sharp-280068?style=for-the-badge&logo=C%20sharp&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
-![ApacheKafka](https://img.shields.io/badge/ApacheKafka-000000.svg?&style=for-the-badge&logo=apachekafka&logoColor=white)&nbsp;
+![ApacheKafka](https://img.shields.io/badge/ApacheKafka-000000.svg?&style=for-the-badge&logo=apache%20kafka&logoColor=white)&nbsp;
 ![Mongo](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
@@ -27,7 +27,7 @@
 ![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Azure](https://img.shields.io/badge/Azure-00ADD8?style=for-the-badge&logo=azure&logoColor=white)&nbsp;
 ![IntelliJIDEA](https://img.shields.io/badge/IJ-IntelliJ%20IDEA-143?style=for-the-badge&logo=intellij&logoColor=blue&color=red&labelColor=black)&nbsp;
-![]()&nbsp;
+![KSQL](https://img.shields.io/badge/KSQL-1287B1?style=for-the-badge&logo=apache%20avro&logoColor=white)&nbsp;
 ![]()&nbsp;
 ![]()&nbsp;
 ![]()&nbsp;
