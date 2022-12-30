@@ -19,20 +19,21 @@
 ![C#](https://img.shields.io/badge/Csharp-280068?style=for-the-badge&logo=Csharp&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
-![Kafka](https://img.shields.io/badge/kafka-%23FF6600.svg?&style=for-the-badge&logo=kafka&logoColor=white)&nbsp;
+![ApacheKafka](https://img.shields.io/badge/Apache%20Kafka-000000.svg?&style=for-the-badge&logo=apachekafka&logoColor=white)&nbsp;
 ![Mongo](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Azure](https://img.shields.io/badge/Azure-00ADD8?style=for-the-badge&logo=azure&logoColor=white)&nbsp;
-![]()&nbsp;
-![]()&nbsp;
-![]()&nbsp;
-![]()&nbsp;
-![]()&nbsp;
-![]()&nbsp;
 ![IntelliJIDEA](https://img.shields.io/badge/IJ-IntelliJ%20IDEA-143?style=for-the-badge&logo=intellij&logoColor=blue&color=red&labelColor=black)&nbsp;
+![]()&nbsp;
+![]()&nbsp;
+![]()&nbsp;
+![]()&nbsp;
+![]()&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
+
 
 ##
 
