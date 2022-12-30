@@ -9,7 +9,9 @@
 <a href="https://www.linkedin.com/in/anatoliiperfun" title="LinkedIn">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="60px" /> 
 </a>
-
+<a href="https://www.linkedin.com/in/anatoliiperfun" title="LinkedIn">
+<img src="https://commons.wikimedia.org/wiki/File:Telegram_2019_Logo.svg">" height="60px" /> 
+</a>
 
 ## Skills:
 
