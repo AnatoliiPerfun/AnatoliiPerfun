@@ -27,7 +27,7 @@
 ![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Azure](https://img.shields.io/badge/Azure-00ADD8?style=for-the-badge&logo=azure&logoColor=white)&nbsp;
 ![IntelliJIDEA](https://img.shields.io/badge/IJ-IntelliJ%20IDEA-143?style=for-the-badge&logo=intellij&logoColor=blue&color=red&labelColor=black)&nbsp;
-![ApacheAvro](https://img.shields.io/badge/ApacheAvro-1287B1?style=for-the-badge&logo=apache%20avro&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![]()&nbsp;
 ![]()&nbsp;
 ![]()&nbsp;
