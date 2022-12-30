@@ -28,7 +28,7 @@
 ![Azure](https://img.shields.io/badge/Azure-00ADD8?style=for-the-badge&logo=azure&logoColor=white)&nbsp;
 ![IntelliJIDEA](https://img.shields.io/badge/IJ-IntelliJ%20IDEA-143?style=for-the-badge&logo=intellij&logoColor=blue&color=red&labelColor=black)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-777BB4?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-808080?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![]()&nbsp;
 ![]()&nbsp;
 ![]()&nbsp;
