@@ -17,6 +17,8 @@
 
 #### Languages:
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Scala](https://img.shields.io/badge/Scala-%23FA0F00?style=for-the-badge&logo=scala&logoColor=white)&nbsp;
 
 
 
