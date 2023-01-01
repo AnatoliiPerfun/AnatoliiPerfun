@@ -31,7 +31,7 @@
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-808080?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)&nbsp;
-![Terraform](https://img.shields.io/badge/Terra%20form-%23172BF4.svg?style=for-the-badge&logo=terraform&logoColor=white)&nbsp;
+![Terraform](https://img.shields.io/badge/Terraform-%23172BF5.svg?style=for-the-badge&logo=terraform&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
 
 <!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; -->
