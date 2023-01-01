@@ -37,7 +37,8 @@
 <!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; -->
 ##
 
-
+| <a href="https://github.com/anatoliiperfun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anatoliiperfun&show_icons=true&include_all_commits=true&theme=codeSTACKr&hide_border=true" alt="Anatolii's github stats" /></a> | <a href="https://github.com/anatoliiperfun/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anatoliiperfun&layout=compact&theme=codeSTACKr&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 
