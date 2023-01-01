@@ -1,4 +1,4 @@
-## Weclome to my GitHome page!
+## Welcome to my GitHome page!
 
 - 🧓 I'm an enthusiastic and highly motivated software engineer with several years of experience.
 - 🌱 I'm big fun of Cloud systems (AWS, GCP, Azure) as well as Java, Scala, SpringBoot, MongoDB, etc.
