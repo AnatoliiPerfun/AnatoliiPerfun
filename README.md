@@ -14,7 +14,7 @@
 </a>
 
 ## Skills:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-%ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Scala](https://img.shields.io/badge/Scala-%23FA0F00?style=for-the-badge&logo=scala&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C%20sharp-280068?style=for-the-badge&logo=C%20sharp&logoColor=white)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
